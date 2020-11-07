@@ -1,6 +1,6 @@
 # Github Page
     (1) First you can make your account in github.
-![First you can make your account](images/First you can make your account.png)
+![First you can make your account](https://user-images.githubusercontent.com/73681489/98430885-ea3eb380-20d6-11eb-8475-1978b167f106.png)
 
     (2) Then setup your repository.
 ![Then setup your repository](https://user-images.githubusercontent.com/73681489/98430648-06415580-20d5-11eb-9f70-51f282ea57bf.png)
